@@ -1,17 +1,17 @@
-Superstore Sales Dashboard – Power BI
+# Superstore Sales Dashboard – Power BI
 
-Dane
+## Dane
 Dane pochodzą z Kaggle z zbioru Superstore Sales Dataset 
 
-Cel projektu
+## Cel projektu
 Celem projektu jest analiza danych sprzedażowych, która wspiera podejmowanie decyzji biznesowych. Dashboard prezentuje kluczowe KPI sprzedażowe, najbardziej i najmniej rentowne produkty oraz rynki, a także pozwala prześledzić trendy klientów i sezonowość zamówień. 
 
-Technologie
+## Technologie
 -Power Bi Desktop
 -Power Query
 -DAX
 
-Funkcjonalności
+## Funkcjonalności
 - KPI: przychód, zysk, liczba zamówień, marża
 - Analiza przychodów i zysków w czasie
 - Najbardziej i najmniej rentowne miasta
@@ -20,5 +20,5 @@ Funkcjonalności
 - Analiza sezonowości i trendów klientów (YoY, wzrost, spadki)
 - Analiza kategorii i podkategorii produktów
 
-Podgląd dashboardu
+## Podgląd dashboardu
 
