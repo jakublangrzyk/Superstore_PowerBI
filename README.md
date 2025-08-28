@@ -21,4 +21,11 @@ Celem projektu jest analiza danych sprzedażowych, która wspiera podejmowanie d
 - Analiza kategorii i podkategorii produktów
 
 ## Podgląd dashboardu
+<p float="left">
+  <img src="Images/dashboard_page1.png" width="300" />
+  <img src="Images/dashboard_page2.png" width="300" />
+  <img src="Images/dashboard_page3.png" width="300" />
+</p>
+
+Dodatkowo dołączony jest plik **.pbix**, który można otworzyć w Power BI Desktop.
 
